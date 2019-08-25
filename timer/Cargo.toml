@@ -1,0 +1,8 @@
+[package]
+name = "timer"
+version = "0.1.0"
+authors = ["Clement Magnard <magnar_c@epita.fr>"]
+edition = "2018"
+
+[dependencies]
+rodio = "0.9.0"

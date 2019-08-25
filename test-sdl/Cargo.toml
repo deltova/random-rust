@@ -1,0 +1,8 @@
+[package]
+name = "test-sdl"
+version = "0.1.0"
+authors = ["Clement Magnard <magnar_c@epita.fr>"]
+edition = "2018"
+
+[dependencies]
+sdl2 = "0.32.x"

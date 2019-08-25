@@ -1,0 +1,8 @@
+[package]
+name = "guessing_name"
+version = "0.1.0"
+authors = ["Clement Magnard <magnar_c@epita.fr>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.4.0"
